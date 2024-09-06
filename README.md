@@ -29,4 +29,5 @@ These are threads responsible for generating tasks. Each producer might create t
 
 5. Maintainability: The clear separation of concerns and the use of design patterns make the application easier to maintain and extend. Changes in one component, such as how tasks are generated or handled, can be implemented with minimal impact on others.
 
-![Alt text](ll.svg)
+
+![Overview](Producer_Consumer.svg)
