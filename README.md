@@ -30,4 +30,8 @@ These are threads responsible for generating tasks. Each producer might create t
 5. Maintainability: The clear separation of concerns and the use of design patterns make the application easier to maintain and extend. Changes in one component, such as how tasks are generated or handled, can be implemented with minimal impact on others.
 
 
-![Overview](Producer_Consumer.svg)
+![Overview](csumer_prduecer.svg)
+* the Producer-Consumer pattern is a key concept in software development that helps manage multiple tasks happening at the same time.
+
+* Queue: is a shared space where producer and consumer can exchange information
+
