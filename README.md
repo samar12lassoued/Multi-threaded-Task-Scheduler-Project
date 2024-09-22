@@ -35,16 +35,3 @@ These are threads responsible for generating tasks. Each producer might create t
 
 * Queue: is a shared space where producer and consumer can exchange information
 
-*Pattern Used: Producer-Consumer and Decorator
-
-    Description:  
-
-    * A multi-threaded task scheduler that manages execution threads and balances loads efficiently.
-    
-    * How Patterns are Used:
-        Producer-Consumer: 
-        Manage tasks where producer threads generate jobs and consumer threads 
-        execute them.
-
-        Decorator: 
-        Enhance or modify task objects dynamically by adding behaviors like logging or performance tracking without changing the task code and .
